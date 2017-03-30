@@ -1,3 +1,8 @@
+! 30 March 2017 - Temporary hack for Netease Music client for Mac
+||music.163.com
+||music.126.net
+
+! Data from Unblock-youku
 |http://v.youku.com/player
 |http://api.youku.com/player
 |http://play.youku.com/play/get.json
