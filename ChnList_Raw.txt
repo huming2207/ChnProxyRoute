@@ -197,6 +197,8 @@
 |http://serviceinfo.sdk.duomi.com/api/serviceinfo/getserverlist*
 |http://music.163.com/api/copyright/restrict/?*
 |http://music.163.com/api/batch
+|http://music.163.com/eapi/copyright/restrict/*
+|http://music.163.com/eapi/batch
 |http://www.xiami.com/web/spark*
 |http://www.xiami.com/web/*?*xiamitoken=*
 |http://spark.api.xiami.com/api?*method=AuthIp*
